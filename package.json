@@ -1,0 +1,21 @@
+{
+    "name": "contoh-crud_25552012015_theoaleksanderw",
+    "version": "1.0.0",
+    "description": "crud",
+    "main": "index.js",
+    "type": "module",
+    "license": "ISC",
+    "author": "code created by Theo",
+    "scripts": {
+        "start": "nodemon index.js"
+    },
+    "dependencies": {
+        "body-parser": "^2.2.2",
+        "dotenv": "^16.6.1",
+        "express": "^5.2.1",
+        "mongoose": "^9.4.1"
+    },
+    "devDependencies": {
+        "nodemon": "^3.1.14"
+    }
+}
